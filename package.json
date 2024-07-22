@@ -19,7 +19,7 @@
     "react-fast-marquee": "^1.6.5",
     "react-icons": "^5.2.1",
     "react-router-dom": "^6.24.1",
-    "rollup": "^4.18.1",
+    "rollup": "^4.19.0",
     "sass": "^1.77.6"
   },
   "devDependencies": {
